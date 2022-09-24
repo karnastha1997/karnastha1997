@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Astha Karan
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning full stack web development.
+- 👀 Interested in web development
+- 🌱 Currently working on front-end development.
 - 💞️ I’m looking to collaborate on webdevelopment field.
--    I'm a student of MCA at Bundelkhand University Jhansi Uttarpradesh.
+-    MCA 2020-2022.
 - 📫
 
 <!---

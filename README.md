@@ -2,7 +2,7 @@
 - 👀 Interested in web development
 - 🌱 Currently working on front-end development.
 - 💞️ I’m looking to collaborate on webdevelopment field.
--     MCA 2020-2022.
+-    MCA 2020-2022.
 - 📫
 
 <!---
